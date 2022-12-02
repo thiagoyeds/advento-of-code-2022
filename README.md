@@ -1,1 +1,1 @@
-# advento-of-code-2022
+# Advento of code 2022
